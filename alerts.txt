@@ -1,0 +1,5 @@
+--Flagged injection word: ignore.  Review the prompt sent!
+--Flagged injection word: override.  Review the prompt sent!
+--Flagged injection word: bypass.  Review the prompt sent!
+--Flagged injection word: hypothetically.  Review the prompt sent!
+--Flagged injection word: pretend.  Review the prompt sent!
